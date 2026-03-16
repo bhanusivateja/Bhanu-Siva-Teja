@@ -224,3 +224,4 @@ if resume_file and job_desc:
     st.subheader("📊 Skill Analysis Graph")
 
     st.pyplot(fig)
+    # AI Resume Analyzer Project
