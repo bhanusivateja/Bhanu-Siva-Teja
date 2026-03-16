@@ -1,4 +1,0 @@
-streamlit
-scikit-learn
-pdfminer.six
-matplotlib
